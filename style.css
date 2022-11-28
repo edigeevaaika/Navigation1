@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 .navbar{
-   background-color: blueviolet;
+   background-color: rgb(220, 43, 226);
    padding: 10px;
 }
 .countainer{
@@ -21,7 +21,7 @@ nav ul a{
 nav ul{
   list-style-type: none;
   display: flex;
-  justify-content: space-between;
+  justify-content:space-around;
 }
 nav a:hover{
   background-color: aqua;
